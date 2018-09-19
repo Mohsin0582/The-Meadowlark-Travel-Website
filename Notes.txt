@@ -1,0 +1,7 @@
+app.set(port, process.env.PORT || 3000) allows us to override the port by setting an environment value before you start the
+server. If your app isn’t running on port 3000 when you run this example, check to see if your PORT environment variable is set.
+
+For Chrome, Ayi-ma's Redirect Path: shows you the status code of the HTTP request as well as any redirects that took place.
+
+Name your primary file app.js (or sometimes index.js or server.js). Refer to this file as the “app file”.
+
